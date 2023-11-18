@@ -1,0 +1,15 @@
+C:\Users\mrjes\Desktop\СУРПО\codeeee\codeeee\bin\Debug\net8.0\codeeee.exe
+C:\Users\mrjes\Desktop\СУРПО\codeeee\codeeee\bin\Debug\net8.0\codeeee.deps.json
+C:\Users\mrjes\Desktop\СУРПО\codeeee\codeeee\bin\Debug\net8.0\codeeee.runtimeconfig.json
+C:\Users\mrjes\Desktop\СУРПО\codeeee\codeeee\bin\Debug\net8.0\codeeee.dll
+C:\Users\mrjes\Desktop\СУРПО\codeeee\codeeee\bin\Debug\net8.0\codeeee.pdb
+C:\Users\mrjes\Desktop\СУРПО\codeeee\codeeee\obj\Debug\net8.0\codeeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjes\Desktop\СУРПО\codeeee\codeeee\obj\Debug\net8.0\codeeee.AssemblyInfoInputs.cache
+C:\Users\mrjes\Desktop\СУРПО\codeeee\codeeee\obj\Debug\net8.0\codeeee.AssemblyInfo.cs
+C:\Users\mrjes\Desktop\СУРПО\codeeee\codeeee\obj\Debug\net8.0\codeeee.csproj.CoreCompileInputs.cache
+C:\Users\mrjes\Desktop\СУРПО\codeeee\codeeee\obj\Debug\net8.0\codeeee.sourcelink.json
+C:\Users\mrjes\Desktop\СУРПО\codeeee\codeeee\obj\Debug\net8.0\codeeee.dll
+C:\Users\mrjes\Desktop\СУРПО\codeeee\codeeee\obj\Debug\net8.0\refint\codeeee.dll
+C:\Users\mrjes\Desktop\СУРПО\codeeee\codeeee\obj\Debug\net8.0\codeeee.pdb
+C:\Users\mrjes\Desktop\СУРПО\codeeee\codeeee\obj\Debug\net8.0\codeeee.genruntimeconfig.cache
+C:\Users\mrjes\Desktop\СУРПО\codeeee\codeeee\obj\Debug\net8.0\ref\codeeee.dll
